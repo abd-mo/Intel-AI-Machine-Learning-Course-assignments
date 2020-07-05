@@ -1,6 +1,6 @@
 # Machine-Learning-Course-By-Intel-AI
 
-# link of course page
+# Course page
 https://software.intel.com/content/www/us/en/develop/training/course-machine-learning.html
 
 This course provides an overview of machine learning fundamentals on modern Intel® architecture. 
