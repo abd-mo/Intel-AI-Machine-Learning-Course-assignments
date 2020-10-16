@@ -11,8 +11,7 @@ This course provides an overview of machine learning fundamentals on modern Inte
     • Understanding building blocks
     • Learning the fundamentals of building models in machine learning
     • Exploring key algorithms
-    • Exploring key algorithms
-    • Exploring key algorithms
+   
     
     
     
